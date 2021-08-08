@@ -14,5 +14,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: Avery2
-          GIST_ID: a8c0405f5734b8a323ddff8863b182c2
+          GH_USERNAME: ${{ secrets.GH_USERNAME }}
+          GIST_ID: ${{ secrets.GIST_ID }}
