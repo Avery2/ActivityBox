@@ -1,6 +1,6 @@
 # My Gist
 
-<script src="https://gist.github.com/Avery2/a8c0405f5734b8a323ddff8863b182c2.js"></script>
+https://gist.github.com/Avery2/a8c0405f5734b8a323ddff8863b182c2
 
 # Instructions
 
